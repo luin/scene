@@ -1,6 +1,14 @@
 # Scene
 A tiny front-end framework designed with ❤️
 
+## Install
+
+Simply include the scene.js in your page or require it as a typical npm module.
+
+```shell
+npm install scene-framework
+```
+
 ## Usage
 
 ```javascript

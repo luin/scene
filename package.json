@@ -1,0 +1,22 @@
+{
+  "name": "scene-framework",
+  "version": "1.0.0",
+  "description": "A tiny front-end framework designed with love",
+  "main": "scene.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luin/scene.git"
+  },
+  "keywords": [
+    "framework"
+  ],
+  "author": "luin <i@zihua.li>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luin/scene/issues"
+  },
+  "homepage": "https://github.com/luin/scene#readme"
+}

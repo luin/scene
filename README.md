@@ -22,7 +22,7 @@ Scene.define('splash', function () {
 }, function () {
   // Invoked when leaving the "splash" scene.
   // Note that you don't need to cleanup the
-  // listeners to the button element since
+  // listeners of the button element since
   // Scene will do that for you.
 });
 
